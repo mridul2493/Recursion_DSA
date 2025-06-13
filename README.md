@@ -1,2 +1,2 @@
-# Java_DSA
+# Recursion
 Data Structures and Algorithms in Java
